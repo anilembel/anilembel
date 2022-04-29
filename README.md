@@ -6,10 +6,10 @@
 
 ### What I'm using ? 🛠     
 
-I prefer React & React Native for web/mobile front-end development.
+I am currently working on analyzing and organizing data. In the future I aim to learn to visualize this data and professionalize myself in data analysis and visualization.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub
+- Python, HTML5, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
