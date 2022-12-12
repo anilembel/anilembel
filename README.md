@@ -1,4 +1,4 @@
-## Hi there 👋  Anil is here.
+## Bonjouur Visitor 👋 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilfurkanembel/) 
 <a href="https://anilembel.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=anilembel" alt="visitor counter"/>
@@ -9,7 +9,7 @@
 I am currently working on analyzing and organizing data. In the future I aim to learn to visualize this data and professionalize myself in data analysis and visualization.
 <br/>
 
-- Python, HTML5, Git, GitHub
+- Python,Sql,Tableau, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
