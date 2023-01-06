@@ -1,37 +1,67 @@
-## Bonjouur Visitor 👋 
+<div align="center">
+<img src="https://media.giphy.com/media/E6NrwcpefOIpkGgF8u/giphy.gif" width="500px">
+</div>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilfurkanembel/) 
-<a href="https://anilembel.github.io/](https://github.com/anilembel?tab=repositories" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="My Repositories" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=anilembel" alt="visitor counter"/>
-<!-- <p align="left">  </p> -->
+<div align="center"> <h1 align="center"> Hi There! This is EMIR 👋 </h1> </div>
 
-### What I'm using ? 🛠     
+<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from POLAND 💬</h3>
 
-I am currently working on analyzing and organizing data. In the future I aim to learn to visualize this data and professionalize myself in data analysis and visualization.
-<br/>
+<div align="center"> <h1 align="center"> 👨 MY Social Medias 👩 </h1> </div>
 
-- Python,Sql,Tableau, Git, GitHub
+<p align="center">
+<a href="https://www.linkedin.com/in/anilfurkanembel">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:anilembelwork@gmail.com">  
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://github.com/anilembel">
+  <img align="center" src="https://komarev.com/ghpvc/?username=anilembel" alt="anilembel"  width="16%"/>
+</a>
 
-- 💬 Ask  me about anything that you want to learn
+<div align="center"> <h1 align="center"> :books: LIBRARIES </h1> </div>
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/anilfurkanembel/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+<p align="center">
+<a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
+</p>
 
+<div align="center"> <h1 align="center"> :bar_chart: LANGUAGES </h1> </div>
 
-## 🚀 Skills
-<p>
- <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="50"/> </a>  
-<!--  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a>  -->
+<p align="center">
+<a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a>
+</p>
 
+<div align="center"> <h1 align="center"> ⚙ TOOLS </h1> </div>
 
-<!--
-**anilembel/anilembel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gitHub" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
+ <a href="#" target="_blank"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="50"/> </a>
+  
+</p>
 
-Here are some ideas to get you started:
+<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
-- 🔭 I’m currently working on Data Analyses with Python
-- 🌱 I’m currently learning Pandas Library on Python
-- 💬 Ask me about Anything you want 
-- 📫 How to reach me: Via @linkedin  <a href="https://www.linkedin.com/in/anilfurkanembel/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
--->
+</p align="center">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilembel&theme=algolia&layout=compact" alt="languages" width="50%" >
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilembel&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilembel&theme=algolia" alt="my commit status" width="48.2%"/>
+</p>
+
+<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
+
+<p align="center">
+<a href="https://github.com/anilembel/DataScience_Studies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilembel&repo=DataScience_Studies&theme=algolia" />
+</a>
+<a href="https://github.com/anilembel/FirstPythonProject_GoogleCrash">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilembel&repo=FirstPythonProject_GoogleCrash&theme=algolia" />
+</a>
+
+</p>
