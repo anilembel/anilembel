@@ -2,9 +2,9 @@
 <img src="https://media.giphy.com/media/E6NrwcpefOIpkGgF8u/giphy.gif" width="500px">
 </div>
 
-<div align="center"> <h1 align="center"> Hi There! This is EMIR 👋 </h1> </div>
+<div align="center"> <h1 align="center"> Bonjouuur! This is Anıl 👋 </h1> </div>
 
-<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from POLAND 💬</h3>
+<h3 align="center">💬 I'm A Industrial Engineer and Data Science Student from Belgium 💬</h3>
 
 <div align="center"> <h1 align="center"> 👨 MY Social Medias 👩 </h1> </div>
 
