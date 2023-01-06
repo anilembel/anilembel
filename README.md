@@ -44,14 +44,6 @@
   
 
 
-<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
-<p align="center">
-<a href="https://github.com/anilembel/DataScience_Studies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilembel&repo=DataScience_Studies&theme=algolia" />
-</a>
-<a href="https://github.com/anilembel/FirstPythonProject_GoogleCrash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anilembel&repo=FirstPythonProject_GoogleCrash&theme=algolia" />
-</a>
 
 </p>
