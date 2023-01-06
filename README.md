@@ -42,17 +42,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="50"/> </a>
   
-</p>
 
-<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
-
-</p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilembel&theme=algolia&layout=compact" alt="languages" width="50%" >
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilembel&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilembel&theme=algolia" alt="my commit status" width="48.2%"/>
-</p>
 
 <div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
 
