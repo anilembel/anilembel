@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/E6NrwcpefOIpkGgF8u/giphy.gif" width="500px">
+<img src="https://media.giphy.com/media/E6NrwcpefOIpkGgF8u/giphy.gif" width="250px">
 </div>
 
 <div align="center"> <h1 align="center"> Bonjouuur! This is Anıl 👋 </h1> </div>
