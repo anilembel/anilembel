@@ -19,31 +19,24 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=anilembel" alt="anilembel"  width="16%"/>
 </a>
 
-<div align="center"> <h1 align="center"> :books: LIBRARIES </h1> </div>
-
-<p align="center">
-<a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-</p>
 
 <div align="center"> <h1 align="center"> :bar_chart: LANGUAGES </h1> </div>
 
 <p align="center">
 <a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a>
+  <a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://imgyukle.com/f/2023/03/21/QpzGSI.png" alt="Python" width="150"/> </a>
+
+  
 </p>
 
-<div align="center"> <h1 align="center"> ⚙ TOOLS </h1> </div>
+<div align="center"> <h1 align="center"> ⚙ TOOLS & Softwares </h1> </div>
 
 <p align="center">
-<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
- <a href="#" target="_blank"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="git" height="50"/> </a>
   
-
-
-
-
+  
 </p>
