@@ -25,7 +25,7 @@
 <p align="center">
 <a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
   <a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://imgyukle.com/f/2023/03/21/QpzGSI.png" alt="Python" width="150"/> </a>
+
 
   
 </p>
