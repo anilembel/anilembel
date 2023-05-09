@@ -4,7 +4,7 @@
 
 <div align="center"> <h1 align="center"> Bonjouuur! This is Anıl 👋 </h1> </div>
 
-<h3 align="center">💬 I'm A Industrial Engineer and Data Science Student from Belgium 💬</h3>
+<h3 align="center">💬 I'm A Industrial Engineer and Junior Data Analyst from Belgium 💬</h3>
 
 <div align="center"> <h1 align="center"> Contact Withe Me Via </h1> </div>
 
